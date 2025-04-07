@@ -1,2 +1,3 @@
 Ligne 1
-Ligne 2   vide
+Ligne 2   pleine
+Ligne 3
